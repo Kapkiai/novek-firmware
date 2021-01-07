@@ -14,7 +14,7 @@ void loop() {
  delay(1);
  Serial.print(0x9, BIN);
  delay(1);
- Serial.print(0x11, BIN);
+ Serial.print(0xB, BIN);
  delay(3);
  Serial.print(0x4,BIN);
  delay(1);
