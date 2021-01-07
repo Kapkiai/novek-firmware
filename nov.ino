@@ -2,9 +2,9 @@
 
 */
 #include <SoftwareSerial.h>
-#SoftwareSerial mySerial(4,5);
+//#SoftwareSerial mySerial(4,5);
 void setup() {
- #   mySerial.begin(9600);
+ //   mySerial.begin(9600);
     Serial.begin(9600);
     
 }
